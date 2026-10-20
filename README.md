@@ -17,3 +17,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloMtz&show_icons=true&theme=radical&hide_border=true" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=100&section=footer" />
+
+### 👾 Mi actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloMtz/AngeloMtz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AngeloMtz/AngeloMtz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TU_USUARIO/AngeloMtz/output/pacman-contribution-graph.svg">
+</picture>
