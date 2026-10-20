@@ -4,10 +4,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&color=7FDBFF&center=true&vCenter=true&width=800&lines=%3E+loading+angel.exe...;Full-Stack+Developer;Anime+%2B+Gamer+%2B+Coder" />
 </p>
 
-### 🫧 PLAYER 1
+### 𖦹 PLAYER 1 
 - 🏫 Ing. en Desarrollo y Gestión de Software
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece
+                             ╱|、
+                          (˚ˎ 。7  
+                           |、˜〵          
+                          じしˍ,)ノ⋆⭒.⋆🪐 ⋆⭒.⋆
 
 ### 🐚 Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
