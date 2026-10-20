@@ -9,10 +9,10 @@
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece
 
-                             ╱|、
-                          (˚ˎ 。7  
-                           |、˜〵          
-                          じしˍ,)ノ⋆⭒.⋆🪐 ⋆⭒.⋆
+- .               へ         
+         ૮  --  --) 
+          /  ⁻  ៸|                                                                                      
+     乀(ˍ, ل ل
 
 ### 🐚 Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
