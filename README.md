@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&color=7FDBFF&center=true&vCenter=true&width=800&lines=%3E+loading+angel.exe...;Full-Stack+Developer;Anime+%2B+Gamer+%2B+Coder" />
 </p>
 
-### 𖦹 PLAYER 1 
+### 𑄝 PLAYER 1 
 - 🏫 Ing. en Desarrollo y Gestión de Software
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -12,7 +12,7 @@
 ### ✦ Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
 
-### 𑄝 Stats
+### 𖦹 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloMtz&show_icons=true&hide_border=true&bg_color=0b1a2e&title_color=7fdbff&icon_color=f4a259&text_color=cfefff&ring_color=4fc3f7" />
 
 ### ඞ Mi actividad
