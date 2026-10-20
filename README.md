@@ -8,11 +8,7 @@
 - 🏫 Ing. en Desarrollo y Gestión de Software
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece
-
-- .               へ         
-         ૮  --  --) 
-          /  ⁻  ៸|                                                                                      
-     乀(ˍ, ل ل
+ل ل
 
 ### 🐚 Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
