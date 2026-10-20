@@ -12,7 +12,7 @@
 ### ✦ Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
 
-### . ݁₊ ⊹ . ݁˖ . ݁ Stats
+### 𑄝 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloMtz&show_icons=true&hide_border=true&bg_color=0b1a2e&title_color=7fdbff&icon_color=f4a259&text_color=cfefff&ring_color=4fc3f7" />
 
 ### ඞ Mi actividad
