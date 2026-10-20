@@ -1,4 +1,3 @@
-## AngeloMtz 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=180&section=header&text=ImAngelo.o&fontColor=ffffff&fontSize=60" />
 
