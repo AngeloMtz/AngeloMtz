@@ -9,13 +9,13 @@
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-### 🐚 Inventario
+### ✦ Inventario
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,prisma,postgres,python,aws,git&theme=dark" />
 
-### 🌊 Stats
+### . ݁₊ ⊹ . ݁˖ . ݁ Stats
 <img src="https://github-readme-stats.vercel.app/api?username=AngeloMtz&show_icons=true&hide_border=true&bg_color=0b1a2e&title_color=7fdbff&icon_color=f4a259&text_color=cfefff&ring_color=4fc3f7" />
 
-### 👾 Mi actividad
+### ඞ Mi actividad
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AngeloMtz/AngeloMtz/output/pacman-contribution-graph-dark.svg">
