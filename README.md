@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=180&section=header&text=ImAngelo.o&fontColor=ffffff&fontSize=60" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FF00CC&center=true&vCenter=true&width=600&lines=%3E+loading+angel.exe...;Full-Stack+Developer;Otaku+%2B+Gamer+%2B+Coder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FF00CC&center=true&vCenter=true&width=600&lines=%3E+loading+angel.exe...;Full-Stack+Developer;Anime+%2B+Gamer+%2B+Coder" />
 </p>
 
 ### 🕹️ PLAYER 1
