@@ -8,6 +8,7 @@
 - 🏫 Ing. en Desarrollo y Gestión de Software
 - ⚔️ Clase: Full-Stack Mage
 - 🎮 Jugando: Roblox  |  📺 Viendo: One Piece
+
                              ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
